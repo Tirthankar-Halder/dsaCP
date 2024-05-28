@@ -1,0 +1,11 @@
+/*
+node
+root
+leaf
+subtree
+children
+parent
+ancesters
+descen
+internal 
+*/
